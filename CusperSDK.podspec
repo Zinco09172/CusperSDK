@@ -8,8 +8,8 @@ Cusper Ad SDK is designed to simplify the integration of various advertisement f
   s.homepage         = 'https://github.com/Zinco09172/CusperSDK.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Zinco' => 'nikohouse0917@gmail.com' }
-  s.source           = { :http => 'https://your.sdk.download.link/CusperIOSSDK.zip', :sha256 => 'the_sha256_checksum' }
-  s.ios.deployment_target = '9.0'
+  s.source           = { :http => 'https://github.com/Zinco09172/CusperSDK/releases/download/1.1.0/Cusper.framework.zip', :sha256 => '324d801e6f6c0d3bc23104f115dcb50d38c26ccee83076a73ae0a8e0434d450c' }
+  s.ios.deployment_target = '12.0'
 
   # 指定 framework 或静态库
   s.vendored_frameworks = 'Cusper.framework'
