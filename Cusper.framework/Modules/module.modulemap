@@ -1,0 +1,6 @@
+framework module Cusper {
+  umbrella header "Cusper.h"
+  export *
+
+  module * { export * }
+}
