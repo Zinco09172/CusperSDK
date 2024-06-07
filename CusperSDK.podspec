@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CusperSDK'
-  s.version          = '1.1.3'
+  s.version          = '1.1.4'
   s.summary          = 'Cusper Ad SDK for integrating various ad formats.'
   s.description      = <<-DESC
 Cusper Ad SDK is designed to simplify the integration of various advertisement formats into your iOS applications, including banners, interstitials, and video ads. This SDK provides easy-to-use APIs and extensive documentation to help developers maximize ad revenue with minimal effort.
